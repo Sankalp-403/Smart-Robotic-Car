@@ -77,6 +77,9 @@ SmartRoboticCar/
    //voicecontrol();
 4.Connect your Bluetooth device (if used) and test with a terminal app or voice assistant.
 
+
+
+
 ![image](https://github.com/user-attachments/assets/64633ea3-5348-4ba2-a65a-a77142fe3bcf)
 
 
