@@ -59,3 +59,25 @@ This is an Arduino-based smart robotic car that can navigate autonomously by avo
 
 ## 📂 File Structure
 
+SmartRoboticCar/
+├── SmartRoboticCar.ino # Main Arduino sketch
+└── README.md # This documentation
+
+
+---
+
+## 🔌 Setup Instructions
+
+1. Upload the code to the Arduino Uno.
+2. Power the circuit using a 9V battery or USB.
+3. Choose control mode by enabling one of the following in `loop()`:
+   ```cpp
+   //Obstacle();
+   //Bluetoothcontrol();
+   //voicecontrol();
+4.Connect your Bluetooth device (if used) and test with a terminal app or voice assistant.
+
+![image](https://github.com/user-attachments/assets/64633ea3-5348-4ba2-a65a-a77142fe3bcf)
+
+
+
